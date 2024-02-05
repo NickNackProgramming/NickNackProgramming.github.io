@@ -1,0 +1,29 @@
+.title {
+	font-family: 'Honk', sans-serif;
+	font-size: 70px;
+	text-align: center;
+}
+.subheader{
+	font-family: 'Honk',sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+.bg {
+	background-image: linear-gradient(black 0.2%, rgba(255,96,171,255), rgba(255,255,178,255));
+
+	height: 100%;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body, html {
+	height: 100%;
+}
+div.halfpanel {
+	width: 40%;
+	height: 60%;
+	border: 5px solid black;
+  	margin: 20px;
+	background-color: white;
+}
