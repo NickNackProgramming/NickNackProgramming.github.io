@@ -23,6 +23,9 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.pbg{
+	background-color: rgb(18,18,18);
+}
 body, html {
 	height: 100%;
 }
@@ -34,8 +37,8 @@ div.halfpanel {
 	background-color: white;
 }
 .topnav {
-	background: linear-gradient(0.25turn, black, rgba(255,96,171,255), black);
-	border: 5px solid black;
+	background: rgb(18,18,18);
+	border: 5px solid rgb(255, 255, 255);
   	margin: 20px;
 	overflow: hidden;
 }
